@@ -24,6 +24,6 @@ It allows users to add, view, and delete tasks — with all tasks saved to a loc
 
 ## 📂 File Structure
 
+- README.md
 - todo.py 
 - todo.txt 
-- README.md 
